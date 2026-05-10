@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-electron
+.DS_Store
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+".trae/" 
+AI_Editor_Feasibility_Study_V2.md
+AI_Editor_Feasibility_Study_V2.docx

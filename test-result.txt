@@ -1,0 +1,8 @@
+Process versions: {"node":"16.14.2","v8":"10.2.154.15-electron.0","uv":"1.43.0","zlib":"1.2.11","brotli":"1.0.9","ares":"1.18.1","modules":"106","nghttp2":"1.45.1","napi":"8","llhttp":"6.0.4","openssl":"1.1.1","cldr":"40.0","icu":"70.1","tz":"2021a3","unicode":"14.0","electron":"19.1.9"}
+Has electron: Yes
+Has app: No
+Has BrowserWindow: No
+Has require: Yes
+require("electron") type: string
+require("electron") value: G:\aicode0506\node_modules\electron\dist\electron.exe
+require("electron") keys: N/A
