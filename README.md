@@ -2,6 +2,9 @@
 ## 一、项目介绍
 **lepiai/happywrite** 是基于 **Electron + Vite + TypeScript** 开发的**AI自媒体编辑器**，定位为桌面端AI内容创作工具，用于自媒体文案生成、编辑、排版与导出，适合公众号、小红书、短视频文案等场景快速产出。
 
+<img width="2036" height="1533" alt="image" src="https://github.com/user-attachments/assets/386543b8-1189-43db-8d13-bf3fc1d939c0" />
+
+
 ### 核心技术栈
 - 主框架：Electron（跨平台桌面）
 - 构建工具：Vite
